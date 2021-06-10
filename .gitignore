@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+src/data_processing/.ipynb_checkpoints/
+.idea/
+venv/
+src/__pycache__/
+src/new_training.csv
+src/data_processing/__pycache__/
